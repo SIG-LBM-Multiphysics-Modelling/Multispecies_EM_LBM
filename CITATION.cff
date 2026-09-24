@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+
+message: "If you use this code, please cite the associated paper."
+
+title: "Multispecies EM-LBM Solver"
+
+authors:
+  - family-names: "Patnaik"
+    given-names: "Shiladitya"
+  - family-names: "Skillen"
+    given-names: "Alex"
+  - family-names: "De Rosis"
+    given-names: "Alessandro"
+
+version: "paper-v1"
+
+date-released: 2026-05-16
